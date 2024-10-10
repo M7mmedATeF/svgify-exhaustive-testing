@@ -7,7 +7,7 @@ import "@sumcode/svgify/styles";
 
 createRoot(document.getElementById("root")).render(
     <StrictMode>
-        <Svgifier version={1}>
+        <Svgifier version={3}>
             <App />
         </Svgifier>
     </StrictMode>
